@@ -1,5 +1,3 @@
-# Write a function that converts angles from degrees to radians and vice versa, keeping in 
-# mind that most programming math libraries (like JavaScript's Math) use radians.
 from enum import Enum
 import math
 import re
