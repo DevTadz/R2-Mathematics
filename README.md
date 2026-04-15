@@ -10,6 +10,7 @@ Python code for the Norwegian R2 mathematics curriculum
 - [ ] Degree to Radian Converter
 - [ ] Pathing/Trajectory
 - [ ] Angle between two ships
+- [ ] Unit circle with drawn angle
 ### Functions, Integrals & Derivatives
 
 ### Differential equations
