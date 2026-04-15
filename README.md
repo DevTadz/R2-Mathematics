@@ -7,7 +7,7 @@ Python code for the Norwegian R2 mathematics curriculum
 
 ### Trigonometry
 - [x] Right Triangle Solver
-- [ ] Degree to Radian Converter
+- [x] Degree to Radian Converter
 - [ ] Pathing/Trajectory
 - [ ] Angle between two ships
 - [ ] Unit circle with drawn angle
