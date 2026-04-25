@@ -27,7 +27,7 @@ plt.plot(x, f(x), label=r'$F(x) = 6.28x + 15 + 30.45\sin(1.48x - 2.6)$', color='
 plt.plot([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], y_pred, 'ro')
 plt.plot([0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], [26.7, 31.6, 34.4, 48.6, 48.7, 20.7, 71.7, 149.6, 86, 59.9, 66.2], 'go')
 plt.plot([20], [f(20)], 'yo')
-plt.title('Graph of $F(x) = 6.28x + 15 + 30.45\sin(1.48x - 2.6)$')
+plt.title('Graf av $F(x) = 6.28x + 15 + 30.45\sin(1.48x - 2.6)$')
 plt.xlabel('x')
 plt.ylabel('F(x)')
 plt.grid(True, linestyle='--', alpha=0.7)
