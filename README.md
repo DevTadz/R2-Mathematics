@@ -5,7 +5,7 @@ Python code for the Norwegian R2 mathematics curriculum
 
 ### Algebra
 - [x] Sequence generator
-- [ ] Recursive sequence
+- [x] Recursive sequence
 - [ ] Pattern detector
 - [ ] Nth term returner
 - [ ] Arithmetic list checker
