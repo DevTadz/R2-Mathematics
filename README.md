@@ -4,6 +4,12 @@ Python code for the Norwegian R2 mathematics curriculum
 # Curriculum
 
 ### Algebra
+- [x] Sequence generator
+- [ ] Recursive sequence
+- [ ] Pattern detector
+- [ ] Nth term returner
+- [ ] Arithmetic list checker
+- [ ] Find n of sequence
 
 ### Trigonometry
 - [x] Right Triangle Solver
