@@ -19,6 +19,13 @@ Python code for the Norwegian R2 mathematics curriculum
 - [ ] Angle between two ships
 - [ ] Unit circle with drawn angle
 ### Functions, Integrals & Derivatives
+- [ ] Function evaluation
+- [ ] Numeral derivative
+- [ ] Find max (using derivative)
+- [ ] Numerical integration
+- [ ] Function analysis
+- [ ] Linear sin model
+- [ ] Function fitting
 
 ### Differential equations
 
