@@ -1,5 +1,5 @@
 # R2-Mathematics
-Python code for the Norwegian R2 mathematics curriculum
+Python code for the Norwegian R2 mathematics curriculum. Each theme also might contain rule folder with useful MS paint images
 
 # Curriculum
 
@@ -18,6 +18,7 @@ Python code for the Norwegian R2 mathematics curriculum
 - [ ] Pathing/Trajectory
 - [ ] Angle between two ships
 - [ ] Unit circle with drawn angle
+
 ### Functions, Integrals & Derivatives
 - [x] Function evaluation
 - [x] Numerical derivative
