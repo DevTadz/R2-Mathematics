@@ -19,8 +19,8 @@ Python code for the Norwegian R2 mathematics curriculum
 - [ ] Angle between two ships
 - [ ] Unit circle with drawn angle
 ### Functions, Integrals & Derivatives
-- [ ] Function evaluation
-- [ ] Numeral derivative
+- [x] Function evaluation
+- [x] Numeral derivative
 - [ ] Find max (using derivative)
 - [ ] Numerical integration
 - [ ] Function analysis
