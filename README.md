@@ -20,8 +20,8 @@ Python code for the Norwegian R2 mathematics curriculum
 - [ ] Unit circle with drawn angle
 ### Functions, Integrals & Derivatives
 - [x] Function evaluation
-- [x] Numeral derivative
-- [ ] Find max (using derivative)
+- [x] Numerical derivative
+- [x] Find max (using derivative)
 - [ ] Numerical integration
 - [ ] Function analysis
 - [ ] Linear sin model
