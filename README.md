@@ -22,7 +22,7 @@ Python code for the Norwegian R2 mathematics curriculum
 - [x] Function evaluation
 - [x] Numerical derivative
 - [x] Find max (using derivative)
-- [ ] Numerical integration
+- [x] Numerical integration
 - [ ] Function analysis
 - [ ] Linear sin model
 - [ ] Function fitting
