@@ -28,6 +28,8 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 - [ ] Linear sin model
 - [ ] Function fitting
 
+### Logarithms
+
 ### Differential equations
 
 ### Vectors in 2D and 3D
