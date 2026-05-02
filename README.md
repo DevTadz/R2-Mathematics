@@ -23,7 +23,8 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 - [x] Function evaluation
 - [x] Numerical derivative
 - [x] Find max (using derivative)
-- [x] Numerical integration
+- [x] Trapezoidal integration
+- [ ] Simpsons integration
 - [ ] Function analysis
 - [ ] Linear sin model
 - [ ] Function fitting
