@@ -34,7 +34,7 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 ### Differential equations
 
 ### Vectors in 2D and 3D
-- [ ] Vector length
+- [ ] 2D Vector length
 - [ ] Dot product
 - [ ] Angle between vectors
 - [ ] Vector projection
