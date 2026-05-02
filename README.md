@@ -24,7 +24,7 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 - [x] Numerical derivative
 - [x] Find max (using derivative)
 - [x] Trapezoidal integration
-- [ ] Simpsons integration
+- [X] Simpsons integration
 - [ ] Function analysis
 - [ ] Linear sin model
 - [ ] Function fitting
@@ -34,3 +34,14 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 ### Differential equations
 
 ### Vectors in 2D and 3D
+- [ ] Vector length
+- [ ] Dot product
+- [ ] Angle between vectors
+- [ ] Vector projection
+- [ ] Point to line distance
+- [ ] Collinearity check
+- [ ] Cross product
+- [ ] Plane normal
+- [ ] Line plane intersection
+- [ ] Coplanar check
+- [ ] Parametric line distance
