@@ -6,8 +6,8 @@ def main():
 
     vector_props = vector_props_str.split(" ") # [3i, -, 2j]
 
-    i = int(vector_props[0].replace("i", "")) # 3 || -3
-    j = int(vector_props[1] + vector_props[2].replace("j", "")) # 2 || -2
+    i = int(vector_props[0].replace("i", "")) # 3
+    j = int(vector_props[1] + vector_props[2].replace("j", "")) # -2
 
 
     init_point_props = init_point_str.removeprefix("(").removesuffix(")").replace(" ", "").split(",")
