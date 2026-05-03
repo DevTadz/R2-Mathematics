@@ -37,6 +37,7 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 - [x] 2D Vector length
 - [x] 2D Vector find terminal point
 - [x] 2D Vector find initial point
+- [x] 3D Vector find magnitude
 - [ ] Dot product
 - [ ] Angle between vectors
 - [ ] Vector projection
