@@ -2,7 +2,7 @@
 
 
 def main():
-    vector_a_str = input("Write vector 1 in format <x,y>: ") #
+    vector_a_str = input("Write vector 1 in format <x,y>: ") 
     vector_b_str = input("Write vector 2 in format <x,y>: ")
 
     vector_a_components = vector_a_str.replace(" ", "").removeprefix("<").removesuffix(">").split(",")
