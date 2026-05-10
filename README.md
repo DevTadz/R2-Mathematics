@@ -40,3 +40,5 @@ Python code for the Norwegian R2 mathematics curriculum. Each theme also might c
 - [x] 3D Vector find magnitude
 - [x] 2D Vector Add two vectors together
 - [x] 2D Vector Find unit vector
+- [x] 3D Vector find plane (With normal vector and point)
+- [X] 3D Vector find plane (with 3 points)
